@@ -1,0 +1,15 @@
+.tile-device {
+    padding: 2%;
+}
+
+.tile-device-inside {
+    transition: 0.5s;
+}
+
+.tile-device-inside:hover {
+    background-color: #264357;
+}
+
+.tile-device-inside.active {
+    background-color: #02b1af; /* Kolor tła dla aktywnego kafelka */
+}

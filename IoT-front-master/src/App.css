@@ -1,0 +1,11 @@
+.value {
+    margin-left: 15px;
+}
+
+.logo {
+    background: url("assets/ki.jpg");
+    background-size: cover;
+    width: 4vh;
+    height: 4vh;
+    margin: 3px;
+}
